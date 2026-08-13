@@ -4,6 +4,7 @@
 **[ORG] // Security Operations · Case GF-INC-2026-0806**
 ---
 **Shift Handover**
+
 **HANDOVER NOTE // [ORG SOC] — Cyber Range Operations**
 
 **From:** Night shift // Hunt Lead
