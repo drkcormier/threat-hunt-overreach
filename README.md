@@ -29,3 +29,5 @@ One incident, one account, one evening. Start here. Where it leads is yours to f
 <img width="827" height="199" alt="image" src="https://github.com/user-attachments/assets/4ce34d22-0165-4d34-ae6b-e6ec049f09e8" />
 
 ---
+## Your Report
+[Investigation Report](https://github.com/drkcormier/threat-hunt-overreach/blob/main/overreach-hunt-report.md)
