@@ -3,7 +3,7 @@
 
 **[ORG] // Security Operations · Case GF-INC-2026-0806**
 ---
-**Shift Handover**
+### **Shift Handover**
 
 **HANDOVER NOTE // [ORG SOC] — Cyber Range Operations**
 
@@ -26,9 +26,9 @@ It was detected and correlated in the cloud. The question is what happened after
 One incident, one account, one evening. Start here. Where it leads is yours to find.
 
 ---
-## Your Surfaces
+### Your Surfaces
 <img width="827" height="199" alt="image" src="https://github.com/user-attachments/assets/4ce34d22-0165-4d34-ae6b-e6ec049f09e8" />
 
 ---
-## Investigation Report
+### Investigation Report
 [Investigation Report](https://github.com/drkcormier/threat-hunt-overreach/blob/main/overreach-hunt-report.md)
